@@ -1,8 +1,9 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
 int main() {
-    cout << "Hola" << endl;
-    cout << "asd";
+    std::cout << "Hola" << endl;
+    std::cout << "asd";
     return 0;
 }
